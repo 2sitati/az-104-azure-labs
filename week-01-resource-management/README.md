@@ -19,7 +19,7 @@ As the starting point of a weekly AZ-104 hands-on portfolio, this lab simulates 
 - Activity Log
 
 ## 5. Architecture
-![Architecture Diagram](architecture-diagram.svg)
+![Architecture Diagram](architecture-diagram.png)
 
 The diagram distinguishes **deployed resources** (Resource Group → Storage Account → Blob Container → Blob) from **governance/management concepts** (Tags, IAM, Activity Log, Resource Locks) that were applied to or explored on that Resource Group, rather than being resources in their own right.
 
