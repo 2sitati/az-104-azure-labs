@@ -6,7 +6,7 @@ Tracking weekly AZ-104 hands-on labs from start to finish.
 
 | Week | Topic | Status | Key Concepts | LinkedIn | Folder |
 |------|-------|--------|--------------|----------|--------|
-| 01 | Resource Management | ✅ Done | Resource Groups, Tags, IAM, Resource Locks, Activity Log | [post](#) | [link](week-01-resource-management/) |
+| 01 | Resource Management | ✅ Done | Resource Groups, Tags, IAM, Resource Locks, Activity Log | https://lnkd.in/p/dpEPRSpm | [link](week-01-resource-management/) |
 | 02 | *TBD* | ⏳ Planned | | | |
 | 03 | *TBD* | ⏳ Planned | | | |
 
