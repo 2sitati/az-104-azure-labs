@@ -23,6 +23,26 @@ As the starting point of a weekly AZ-104 hands-on portfolio, this lab simulates 
 
 The diagram distinguishes **deployed resources** (Resource Group → Storage Account → Blob Container → Blob) from **governance/management concepts** (Tags, IAM, Activity Log, Resource Locks) that were applied to or explored on that Resource Group, rather than being resources in their own right.
 
+## Screenshots
+
+**Tags applied to the Resource Group**
+![Tags](screenshots/01-tags.jpeg)
+
+**Blob Container detail — test file uploaded**
+![Blob Container](screenshots/02-blob-container.jpeg)
+
+**Access Control (IAM) — role assignment on the Resource Group**
+![IAM Access Control](screenshots/03-iam-access-control.png)
+
+**Resource Group overview (before deployment)**
+![Resource Group Overview](screenshots/04-resource-group-overview.png)
+
+**Resource Group overview — Storage Account deployed**
+![Resource Group with Storage](screenshots/05-resource-group-with-storage.jpeg)
+
+**Activity Log — management operations**
+![Activity Log](screenshots/06-activity-log.png)
+
 ## 6. Implementation Steps
 1. Created a dedicated Resource Group, `AZ104-Week01-ResourceManagement`, in East US to contain all lab resources.
 2. Applied a set of organizational tags to the Resource Group (`Environment`, `Owner`, `Project`, `Purpose`, `Week`).
