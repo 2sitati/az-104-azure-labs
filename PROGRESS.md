@@ -6,8 +6,8 @@ Tracking weekly AZ-104 hands-on labs from start to finish.
 
 | Week | Topic | Status | Key Concepts | LinkedIn | Folder |
 |------|-------|--------|--------------|----------|--------|
-| 01 | Resource Management | ✅ Done | Resource Groups, Tags, IAM, Resource Locks, Activity Log | [post](#) | [link](week-01-resource-management/) |
-| 02 | Virtual Machines | ✅ Done | VM sizing, Windows Server, RDP, OS disks, Networking, NSG, Monitoring, Activity Log, Cost management | [post](#) | [link](week-02-virtual-machines/) |
+| 01 | Resource Management | ✅ Done | Resource Groups, Tags, IAM, Resource Locks, Activity Log | [https://lnkd.in/p/dpEPRSpm](https://lnkd.in/p/dpEPRSpm) | [link](week-01-resource-management/) |
+| 02 | Virtual Machines | ✅ Done | VM sizing, Windows Server, RDP, OS disks, Networking, NSG, Monitoring, Activity Log, Cost management | https://lnkd.in/p/dSNx8e5d | [link](week-02-virtual-machines/) |
 | 03 | *TBD* | ⏳ Planned | | | |
 
 ## Week 2 Notes
