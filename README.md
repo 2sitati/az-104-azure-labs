@@ -1,5 +1,4 @@
-# az-104-azure-labs
-
+# AZ-104 Azure Labs
 
 A weekly hands-on lab portfolio built while studying for the Microsoft AZ-104 (Azure Administrator) certification.
 
@@ -14,7 +13,8 @@ See [PROGRESS.md](PROGRESS.md) for the full tracker.
 | Week | Topic | Key Concepts | Link |
 |------|-------|--------------|------|
 | 01 | Resource Management | Resource Groups, Tags, IAM, Resource Locks, Activity Log | [week-01-resource-management](week-01-resource-management/) |
-| 02 | *(coming soon)* | | |
+| 02 | Virtual Machines | VM deployment, VM sizing, RDP, Disks, Networking, NSG, Monitoring | [week-02-virtual-machines](week-02-virtual-machines/) |
+| 03 | *(coming soon)* | | |
 
 ## About
 

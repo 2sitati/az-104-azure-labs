@@ -6,9 +6,14 @@ Tracking weekly AZ-104 hands-on labs from start to finish.
 
 | Week | Topic | Status | Key Concepts | LinkedIn | Folder |
 |------|-------|--------|--------------|----------|--------|
-| 01 | Resource Management | ✅ Done | Resource Groups, Tags, IAM, Resource Locks, Activity Log | https://lnkd.in/p/dpEPRSpm | [link](week-01-resource-management/) |
-| 02 | *TBD* | ⏳ Planned | | | |
+| 01 | Resource Management | ✅ Done | Resource Groups, Tags, IAM, Resource Locks, Activity Log | [https://lnkd.in/p/dpEPRSpm](https://lnkd.in/p/dpEPRSpm) | [link](week-01-resource-management/) |
+| 02 | Virtual Machines | ✅ Done | VM sizing, Windows Server, RDP, OS disks, Networking, NSG, Monitoring, Activity Log, Cost management | https://lnkd.in/p/dSNx8e5d | [link](week-02-virtual-machines/) |
 | 03 | *TBD* | ⏳ Planned | | | |
+
+## Week 2 Notes
+- **Challenge:** RDP could not establish a working session on the initial Standard_B1s size (1 GiB RAM insufficient for a full Windows Server desktop session).
+- **Resolution:** Resized the VM to Standard_B1ms (2 GiB RAM), which resolved the RDP issue — confirmed via a successful session and in-VM validation (`hostname`, `ipconfig`, `systeminfo`, test file creation).
+- **Cleanup status:** VM stopped, deallocated, and deleted, and the Resource Group `AZ104-Week02-VirtualMachines` was also deleted — cleanup fully completed.
 
 ## Notes
 
