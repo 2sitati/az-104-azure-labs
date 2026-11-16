@@ -14,7 +14,8 @@ See [PROGRESS.md](PROGRESS.md) for the full tracker.
 |------|-------|--------------|------|
 | 01 | Resource Management | Resource Groups, Tags, IAM, Resource Locks, Activity Log | [week-01-resource-management](week-01-resource-management/) |
 | 02 | Virtual Machines | VM deployment, VM sizing, RDP, Disks, Networking, NSG, Monitoring | [week-02-virtual-machines](week-02-virtual-machines/) |
-| 03 | *(coming soon)* | | |
+| 03 | Networking and Network Security | Virtual Networks, Subnets, CIDR, NSG rules, Service Endpoints | [week-03-networking](week-03-networking/) |
+| 04 | *(coming soon)* | | |
 
 ## About
 
