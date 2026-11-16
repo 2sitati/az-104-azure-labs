@@ -20,6 +20,11 @@ Tracking weekly AZ-104 hands-on labs from start to finish.
 - **Scope:** Configuration and concepts lab in the Azure portal. No VM was deployed and no connectivity testing was performed.
 - **Cleanup status:** Lab resources deleted after completion.
 
+## Week 2 Notes
+- **Challenge:** RDP could not establish a working session on the initial Standard_B1s size (1 GiB RAM insufficient for a full Windows Server desktop session).
+- **Resolution:** Resized the VM to Standard_B1ms (2 GiB RAM), which resolved the RDP issue — confirmed via a successful session and in-VM validation (`hostname`, `ipconfig`, `systeminfo`, test file creation).
+- **Cleanup status:** VM stopped, deallocated, and deleted, and the Resource Group `AZ104-Week02-VirtualMachines` was also deleted — cleanup fully completed.
+
 ## Notes
 
 - Update the table each time a lab is started and completed.
