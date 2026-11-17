@@ -8,7 +8,7 @@ Tracking weekly AZ-104 hands-on labs from start to finish.
 |------|-------|--------|--------------|----------|--------|
 | 01 | Resource Management | ✅ Done | Resource Groups, Tags, IAM, Resource Locks, Activity Log | (https://lnkd.in/p/dpEPRSpm) | [link](week-01-resource-management/) |
 | 02 | Virtual Machines | ✅ Done | VM sizing, Windows Server, RDP, OS disks, Networking, NSG, Monitoring, Activity Log, Cost management | https://lnkd.in/p/dSNx8e5d | [link](week-02-virtual-machines/) |
-| 03 | Networking and Network Security | ✅ Done | Virtual Networks, Subnets, CIDR, NSG rules and priorities, Service Endpoints | [post](#) | [link](week-03-networking/) |
+| 03 | Networking and Network Security | ✅ Done | Virtual Networks, Subnets, CIDR, NSG rules and priorities, Service Endpoints | (https://lnkd.in/p/dM3uH_tG) | [link](week-03-networking/) |
 | 04 | *TBD* | ⏳ Planned | | | |
 
 ## Week 2 Notes
